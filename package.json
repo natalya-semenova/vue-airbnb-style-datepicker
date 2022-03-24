@@ -41,7 +41,7 @@
     "eslint-plugin-vue": "^4.3.0",
     "jest": "^22.4.3",
     "jest-serializer-vue": "^1.0.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.1",
     "poi": "^9.6.13",
     "poi-preset-eslint": "^9.1.1",
     "prettier": "^1.15.2",
@@ -80,6 +80,6 @@
     }
   },
   "dependencies": {
-    "v-click-outside": "^2.0.1"
+    "v-click-outside": "^3.1.2"
   }
 }
